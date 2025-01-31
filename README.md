@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Kai He is a PhD candidate in Business Administration at the University of Bayreuth, Germany. His research interests encompass digital transformation, sustainability, entrepreneurship, and top-level executives. He masters Python, R, Stata, and SPSS and uses Data Engineering and Machine Learning.
+
 <!--
 **codedbykai/codedbykai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
